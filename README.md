@@ -70,4 +70,6 @@ Unsupervised Learning (KNN): To find the "Nearest Neighbors" in the nutritional 
 Rule-Based Inference: To map BMI values to specific rep ranges and exercise selections (e.g., lower BMI triggers hypertrophy logic; higher BMI triggers fat loss HIIT logic).
 
 👤 Author
+Panchagiri Akshitha - https://github.com/panchagiriakshitha-1412
 Kotha Siddhartha Raj - https://github.com/Siddhartha-raj-kotha/ 
+Marupaka Durga Bhavani - https://github.com/mdb0210
